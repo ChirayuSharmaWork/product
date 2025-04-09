@@ -87,6 +87,4 @@ After running the seed script, you can log in with these credentials:
   - Email: user@example.com
   - Password: user123
 
-## License
 
-MIT
